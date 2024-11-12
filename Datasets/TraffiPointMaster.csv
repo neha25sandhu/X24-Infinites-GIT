@@ -1,0 +1,16 @@
+﻿point_id,point_name,point_type,nearby_landmark,address,area,city,state,pincode,contact_number,jurisdiction,head_officer,officer_contact,traffic_density_level,latitude,longitude
+1,Shivajinagar Police Station,Police Station,Near Shivaji Statue,123 Shivaji Road,Shivajinagar,Pune,Maharashtra,411005,020-12345678,Shivajinagar Area,Inspector Deshmukh,9876543210,NULL,18.530781,73.847259
+2,Bund Garden Chauk,Chauk,Near Bund Garden Bridge,Bund Garden Road,Bund Garden,Pune,Maharashtra,411001,020-87654321,NULL,NULL,NULL,Medium,18.539300,73.877990
+3,Khadki Police Station,Police Station,Near Khadki Market,10 Khadki Bazaar Road,Khadki,Pune,Maharashtra,411003,020-12348765,Khadki Area,Inspector Rao,9876543212,NULL,18.563495,73.836998
+4,Paud Phata Chauk,Chauk,Near Paud Phata,Paud Road,Kothrud,Pune,Maharashtra,411038,NULL,NULL,NULL,NULL,High,18.508907,73.829992
+5,Wanowrie Police Station,Police Station,Near Wanowrie Police Station,25 Solapur Road,Wanowrie,Pune,Maharashtra,411040,020-12345679,Wanowrie Area,Inspector Patil,9876543214,NULL,18.489687,73.899769
+6,Yerawada Chauk,Chauk,Near Yerawada Bridge,Airport Road,Yerawada,Pune,Maharashtra,411006,NULL,NULL,NULL,NULL,High,18.561126,73.873438
+7,Hadapsar Police Station,Police Station,Near Magarpatta City,98 Magarpatta Road,Hadapsar,Pune,Maharashtra,411028,020-34567890,Hadapsar Area,Inspector Kadam,9876543216,NULL,18.519257,73.927936
+8,New Airport Chauk,Chauk,Near Viman Nagar,New Airport Road,Viman Nagar,Pune,Maharashtra,411014,NULL,NULL,NULL,NULL,High,18.567896,73.914498
+9,Swargate Police Station,Police Station,Near Swargate Bus Stand,23 Satara Road,Swargate,Pune,Maharashtra,411042,020-67890123,Swargate Area,Inspector Sawant,9876543219,NULL,18.503731,73.849314
+10,Chinchwad Station Chauk,Chauk,Near Chinchwad Railway Station,Chinchwad Station Road,Chinchwad,Pune,Maharashtra,411033,NULL,NULL,NULL,NULL,Medium,18.632129,73.813746
+11,Pimpri Police Station,Police Station,Near Pimpri Market,15 Pimpri Road,Pimpri,Pune,Maharashtra,411018,020-89012345,Pimpri Area,Inspector Lokhande,9876543221,NULL,18.621422,73.807292
+12,Aundh Chauk,Chauk,Near Baner Road,Aundh Baner Road,Aundh,Pune,Maharashtra,411007,NULL,NULL,NULL,NULL,Low,18.554032,73.792884
+13,Nashik Phata Chauk,Chauk,Near Nashik Highway,Nashik Phata,Bhosari,Pune,Maharashtra,411039,NULL,NULL,NULL,NULL,High,18.633417,73.805914
+14,Nigdi Police Station,Police Station,Near Nigdi Pradhikaran,22 Nigdi Pradhikaran,Nigdi,Pune,Maharashtra,411044,020-34567987,Nigdi Area,Inspector Bhujbal,9876543225,NULL,18.648767,73.769050
+15,Bibwewadi Chauk,Chauk,Near Bibwewadi Main Road,Bibwewadi Road,Bibwewadi,Pune,Maharashtra,411037,NULL,NULL,NULL,NULL,Medium,18.471406,73.865638
